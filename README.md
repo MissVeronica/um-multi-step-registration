@@ -1,4 +1,4 @@
-# UM Multi Step Registration
+# UM Multi Step Registration Forms
 Extension to Ultimate Member for Multi Step Registration Forms. 
 
 The plugin is inserting Sections into the large Registration form based on a "Page" UM Form field set by the Admin user in UM Forms Builder. The UM Registration page shortcode is replaced by a new shortcode activating the plugin. Plugin will display/hide each subpage depending on usage of the Page selection buttons. Registration form can be submitted from any subpage and if there are any field errors they are being displayed at the field in error on the subpage and at the bottom of each subpage.
