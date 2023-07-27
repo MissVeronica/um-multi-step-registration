@@ -6,9 +6,10 @@ The plugin is inserting Sections into the large Registration form based on a "Pa
 ## UM Settings
 1. See screen copies at https://imgur.com/a/pkBuV7i
 2. "Page" a new UM Forms Builder field for adding Page breaks in the Registration Form
-3. Shortcode to replace the UM Registration form shortcode [um_multi_step_registration form_id="9999"]
-4. Make sure you have set the PHP option "max_input_vars" to a value based on your number of input fields.
-5. https://docs.ultimatemember.com/article/1552-how-to-manage-profile-form-with-a-huge-quantity-of-fields
+3. Shortcode to use instead of the UM Registration form shortcode like <code>[ultimatemember form_id="9999"]</code>
+4. with this plugin the shortcode is: <code>[um_multi_step_registration form_id="9999"]</code>
+5. Make sure you have set the PHP option "max_input_vars" to a value based on your number of input fields.
+6. https://docs.ultimatemember.com/article/1552-how-to-manage-profile-form-with-a-huge-quantity-of-fields
 
 ## Installation
 1. Download the zip file and install as a WP Plugin, activate the plugin.
